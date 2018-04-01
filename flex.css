@@ -7,8 +7,9 @@
     border:2px solid aqua;
     padding:5px;
     display: flex;
-
-
+    height:100vh;
+    align-items:center;
+    justify-content: flex-end;
 }
 
 
@@ -17,7 +18,7 @@
 
 border:1px solid black;
 margin:5px;
-
+width: 200px;
 
 
 
